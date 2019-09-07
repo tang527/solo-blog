@@ -10,6 +10,7 @@ tang527 的个人博客
 
 ### 最新
 
+* [朱大佬太强了](http://colonel.wang/articles/2019/09/07/1567850820328.html)
 * [世界，你好！](http://colonel.wang/hello-solo)
 
 

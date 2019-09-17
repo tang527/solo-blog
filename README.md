@@ -10,9 +10,10 @@ tang527 的个人博客
 
 ### 最新
 
+* [VSCode常用快捷键](http://colonel.wang/articles/2019/09/17/1568703920364.html)
+* [破解Xmind Zen](http://colonel.wang/articles/2019/09/16/1568632887155.html)
 * [欢迎刘同学](http://colonel.wang/articles/2019/09/14/1568472353904.html)
 * [CentOS7升级python2.7.5到python3.7以上版本](http://colonel.wang/articles/2019/09/14/1568455259699.html)
-* [朱大佬太强了](http://colonel.wang/articles/2019/09/07/1567850820328.html)
 * [世界，你好！](http://colonel.wang/hello-solo)
 
 

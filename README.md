@@ -10,6 +10,7 @@ tang527 的个人博客
 
 ### 最新
 
+* [CentOS 7 防火墙相关问题](http://colonel.wang/articles/2019/09/17/1568730615726.html)
 * [VSCode常用快捷键](http://colonel.wang/articles/2019/09/17/1568703920364.html)
 * [破解Xmind Zen](http://colonel.wang/articles/2019/09/16/1568632887155.html)
 * [欢迎刘同学](http://colonel.wang/articles/2019/09/14/1568472353904.html)

@@ -10,6 +10,7 @@ tang527 的个人博客
 
 ### 最新
 
+* [Windows10下win+R 下一些常用的 程序](http://colonel.wang/articles/2019/09/25/1569402930596.html)
 * [Docker 拉取 oracle 11g 镜像配置](http://colonel.wang/articles/2019/09/23/1569209976895.html)
 * [安装Docker最新版本](http://colonel.wang/articles/2019/09/23/1569206218337.html)
 * [Docker安装Mysql5.7](http://colonel.wang/articles/2019/09/23/1569169647165.html)

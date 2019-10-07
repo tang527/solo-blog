@@ -10,7 +10,7 @@ tang527 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://colonel.wang/my-github-repos)
+* [odoo字段参数](http://colonel.wang/articles/2019/10/07/1570420742506.html)
 * [西安PLAN 1.0](http://colonel.wang/articles/2019/09/28/1569682111255.html)
 * [Windows10下win+R 下一些常用的 程序](http://colonel.wang/articles/2019/09/25/1569402930596.html)
 * [Docker 拉取 oracle 11g 镜像配置](http://colonel.wang/articles/2019/09/23/1569209976895.html)
@@ -22,7 +22,6 @@ tang527 的个人博客
 * [CentOS 7 防火墙相关问题](http://colonel.wang/articles/2019/09/17/1568730615726.html)
 * [VSCode常用快捷键](http://colonel.wang/articles/2019/09/17/1568703920364.html)
 * [破解Xmind Zen](http://colonel.wang/articles/2019/09/16/1568632887155.html)
-* [CentOS7升级python2.7.5到python3.7以上版本](http://colonel.wang/articles/2019/09/14/1568455259699.html)
 
 
 

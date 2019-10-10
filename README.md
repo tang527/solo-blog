@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Ubuntu下ping百度提示unknown host www.baidu.com](http://colonel.wang/articles/2019/10/10/1570699816698.html)
 * [Ubuntu防火墙的设置](http://colonel.wang/articles/2019/10/09/1570585209302.html)
 * [Docker部署Odoo12](http://colonel.wang/articles/2019/10/09/1570584588820.html)
 * [Ubuntu下安装Docker](http://colonel.wang/articles/2019/10/09/1570584106041.html)

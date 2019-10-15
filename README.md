@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Tomcat部署项目后访问404](http://colonel.wang/articles/2019/10/14/1571061123131.html)
 * [window下idea使用tomcat日志中文乱码解决](http://colonel.wang/articles/2019/10/14/1571035227998.html)
 * [Ubuntu下ping百度提示unknown host www.baidu.com](http://colonel.wang/articles/2019/10/10/1570699816698.html)
 * [Ubuntu防火墙的设置](http://colonel.wang/articles/2019/10/09/1570585209302.html)

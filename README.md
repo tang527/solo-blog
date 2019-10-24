@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [CentOS7安装Python3的教程详解](http://colonel.wang/articles/2019/10/23/1571825841966.html)
 * [Tomcat部署项目后访问404](http://colonel.wang/articles/2019/10/14/1571061123131.html)
 * [window下idea使用tomcat日志中文乱码解决](http://colonel.wang/articles/2019/10/14/1571035227998.html)
 * [Ubuntu下ping百度提示unknown host www.baidu.com](http://colonel.wang/articles/2019/10/10/1570699816698.html)

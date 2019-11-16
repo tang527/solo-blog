@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [VSCode自定义插件安装位置](http://colonel.wang/articles/2019/11/16/1573888193179.html)
+* [CentOS下安装JAVA环境](http://colonel.wang/articles/2019/11/03/1572794768315.html)
+* [破解Sublime Text3](http://colonel.wang/articles/2019/10/31/1572517601844.html)
 * [CentOS7安装Python3的教程详解](http://colonel.wang/articles/2019/10/23/1571825841966.html)
 * [Tomcat部署项目后访问404](http://colonel.wang/articles/2019/10/14/1571061123131.html)
 * [window下idea使用tomcat日志中文乱码解决](http://colonel.wang/articles/2019/10/14/1571035227998.html)
@@ -27,8 +30,11 @@
 * [CentOS防火墙设置端口转发](http://colonel.wang/articles/2019/09/19/1568885637667.html)
 * [虚拟机 NAT静态IP配制](http://colonel.wang/articles/2019/09/19/1568882553818.html)
 * [CentOS 7 防火墙相关问题](http://colonel.wang/articles/2019/09/17/1568730615726.html)
-* [VSCode常用快捷键](http://colonel.wang/articles/2019/09/17/1568703920364.html)
+
+### 热门
+
 * [破解Xmind Zen](http://colonel.wang/articles/2019/09/16/1568632887155.html)
+* [VSCode常用快捷键](http://colonel.wang/articles/2019/09/17/1568703920364.html)
 
 
 
